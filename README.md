@@ -1,16 +1,18 @@
 # SnapScribe: Contributing to Digital Twins with the Snap of a Finger
 
-## Introduction
 
-Buildings are the world’s largest asset class, worth around 350 trillion euros. However, the location, condition, and specifics of equipment are often unknown. This makes maintenance and repair planning difficult. SnapScribe aims to automate the data collection process, making it faster and more accurate.
 
 ## Video demo
 
 [![Video Title](https://github.com/liub6/SnapScribe/blob/main/media/thumbnail.jpg)](https://drive.google.com/file/d/1v0kY9thiXKkqgt3Jsw0-y2Uklptv6C60/view?usp=sharing)
 
+## Introduction
+
+SnapScribe will allow you to easily get strctured data from a picture. You can manipulate these structured data by voice. If the building IFC files are provided, it will be syncronized together with structured data by location information. All of the data will be saved in remote server. To implement all of these, the only thing you need to do is to take a picture and speak to snapscribe.
+
 ## The Challenge
 
-Traditionally, equipment inventories involve taking pictures of devices and manually writing down information. This process is time-consuming and error-prone. SnapScribe simplifies this by using smartphones to capture images. The app automatically recognizes device details like names, models, and serial numbers, and transcribes voice notes. All data is synced to the cloud for easy access and use.
+Traditionally, equipment inventories involve taking pictures of devices and manually writing down information. This pimagesrocess is time-consuming and error-prone. SnapScribe simplifies this by using smartphones to capture . The app automatically recognizes device details like names, models, and serial numbers, and transcribes voice notes. All data is synced to the cloud for easy access and use.
 
 ## Key Features
 
