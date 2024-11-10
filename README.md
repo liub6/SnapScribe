@@ -6,7 +6,7 @@ Buildings are the world’s largest asset class, worth around 350 trillion euros
 
 ## Video demo
 
-https://drive.google.com/file/d/1v0kY9thiXKkqgt3Jsw0-y2Uklptv6C60/view?usp=sharing
+[![Video Title](https://github.com/liu6/blob/main/media/thumbnail.jpg)](https://drive.google.com/file/d/1v0kY9thiXKkqgt3Jsw0-y2Uklptv6C60/view?usp=sharing)
 
 ## The Challenge
 
