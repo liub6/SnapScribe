@@ -5,7 +5,7 @@
 Buildings are the world’s largest asset class, worth around 350 trillion euros. However, the location, condition, and specifics of equipment are often unknown. This makes maintenance and repair planning difficult. SnapScribe aims to automate the data collection process, making it faster and more accurate.
 
 ## Video demo
-https://drive.google.com/file/d/1OLt3thpzW58IFaG9mdKxufJFU4vUSaMA/view?usp=sharing
+[![Video Title](https://github.com/liu6/media/thumbnail.jpg)](https://drive.google.com/file/d/1OLt3thpzW58IFaG9mdKxufJFU4vUSaMA/view?usp=sharing)
 
 ## The Challenge
 
