@@ -4,6 +4,9 @@
 
 Buildings are the world’s largest asset class, worth around 350 trillion euros. However, the location, condition, and specifics of equipment are often unknown. This makes maintenance and repair planning difficult. SnapScribe aims to automate the data collection process, making it faster and more accurate.
 
+## Video demo
+https://drive.google.com/file/d/1OLt3thpzW58IFaG9mdKxufJFU4vUSaMA/view?usp=sharing
+
 ## The Challenge
 
 Traditionally, equipment inventories involve taking pictures of devices and manually writing down information. This process is time-consuming and error-prone. SnapScribe simplifies this by using smartphones to capture images. The app automatically recognizes device details like names, models, and serial numbers, and transcribes voice notes. All data is synced to the cloud for easy access and use.
